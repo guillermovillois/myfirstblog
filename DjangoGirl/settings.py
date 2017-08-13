@@ -25,7 +25,7 @@ SECRET_KEY = '945=u1k=_(04u#74h#$xh%g+b!4gv79jb(xlx+mogyqtkd_98f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['picadas.space']
 
 
 # Application definition
